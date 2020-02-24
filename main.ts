@@ -5,4 +5,4 @@
 import "./chapters/classes";
 import "./chapters/imports/imports";
 import "./chapters/guard";
-import "./chapters/operators";
+import "./chapters/operators-utility-types";
